@@ -1,0 +1,11 @@
+API KEY
+
+AIzaSyD9_qgALDN5VWiMkoW05jzW_2NUp5IS9WU
+
+
+
+Configuring credentials for adasilvap in project 5-tenedores
+Google Certificate Fingerprint:     E8:25:E5:88:94:81:66:DF:39:EA:AA:49:C4:D4:04:7C:56:57:2C:8A
+Google Certificate Hash (SHA-1):    E825E588948166DF39EAAA49C4D4047C56572C8A
+Google Certificate Hash (SHA-256):  5B540CD3790BAB4EA5D76A9716382C85FB78AF83F41B660A23366C819B74AB27
+Facebook Key Hash:                  6CXliJSBZt856qpJxNQEfFZXLIo=
