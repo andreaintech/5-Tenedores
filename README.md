@@ -26,3 +26,6 @@ Project features:
 - Use of internal elements of the device (Camera or Gallery).
 - Use of React Native Elements.
 - Possibility to generate .APK and .IPA.
+
+
+Updated and maintained with ❤️ by [@andreaintech](https://andreaintech.github.io/web/)
